@@ -1,0 +1,1261 @@
+fid,event_id,geom_ids,survey_dat,survey_d_1,agents,hosts,symptoms,survey_met,trigger_pr,trigger_se,trigger__1,trigger__2,country,silvicultu,sanitary_i,sanitary_1,sanitary_2,pattern_de,pattern_di,pattern_mo,pattern__1,severity_d,severity_1,severity_m,severity_2,is_affecte,dataset_co,SURVEYSTA
+1,19607,40827,2011-06-03,exact,Dryocosmus kuriphilus,Castanea sativa,Defoliation,Field surveys,,,,,Italy,,,,,high-contiguous,,,,2.0,,,,1,IT-003,2011-06-03
+2,19608,40828,2011-04-19,exact,Dryocosmus kuriphilus,Castanea sativa,Defoliation,Field surveys,,,,,Italy,Selective logging,,,,high-patchy,,,,2.0,,,,1,IT-003,2011-04-19
+3,19609,40829,2011-05-05,exact,Dryocosmus kuriphilus,Castanea sativa,Defoliation,Field surveys,,,,,Italy,Selective logging,,,,high-contiguous,,,,,,,,1,IT-003,2011-05-05
+4,19610,40830,2011-04-12,exact,Dryocosmus kuriphilus,Castanea sativa,Defoliation,Field surveys,,,,,Italy,Selective logging,,,,high-contiguous,,,,2.0,,,,1,IT-003,2011-04-12
+5,19611,40831,2011-05-01,exact,Dryocosmus kuriphilus,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,,,Italy,,,,,,,,,,,,,1,IT-003,2011-05-01
+6,19612,40832,2011-07-31,exact,Chalara fraxinea,Fraxinus excelsior,Defoliation,Field surveys,Pest/Disease,,,,Italy,Selective logging,,,,,low-patchy,,low-patchy,,1.0,,1.0,1,IT-003,2011-07-31
+7,19613,40833,2009-04-01,exact,Ambrosiodmus rubricollis,Aesculus hippocastanum,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,,,low-patchy,low-patchy,,,1.0,1.0,1,IT-004,2009-04-01
+8,19614,40834,2009-06-17,exact,Thaumetopoea pityocampa,Pinus nigra,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,low-patchy,,,,1.0,,,,1,IT-004,2009-06-17
+9,19615,40835,2009-08-11,exact,Sphaeropsis sapinea,Pinus nigra,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,low-patchy,,low-patchy,,1.0,1.0,1.0,1,IT-004,2009-08-11
+10,19616,40836,2009-05-20,exact,Yponomeuta sp.,Euonymus europaeus,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,low-patchy,,,,1.0,,,,1,IT-004,2009-05-20
+11,19617,40837,2009-08-12,exact,Cryphonectria parasitica,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,,,low-patchy,,,1.0,1.0,1,IT-004,2009-08-12
+12,19618,40838,2009-08-17,exact,Cryphonectria parasitica,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,,,high-contiguous,,,2.0,2.0,1,IT-004,2009-08-17
+13,19619,40839,2009-06-25,exact,Heterobasidion annosum,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,low-patchy,,,,1.0,,,1,IT-004,2009-06-25
+14,19620,40840,2009-07-02,exact,unknown fungus,Fagus sylvatica,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,,,low-patchy,,,1.0,1.0,1,IT-004,2009-07-02
+15,19621,40841,2009-05-08,exact,Dryocosmus kuriphilus,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,,,,1.0,,,,1,IT-004,2009-05-08
+16,19622,40842,2009-06-08,exact,Dryocosmus kuriphilus,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-patchy,,,,2.0,,,,1,IT-004,2009-06-08
+17,19623,40843,2009-06-12,exact,Dryocosmus kuriphilus,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-contiguous,,,,1.0,,,,1,IT-004,2009-06-12
+18,19624,40844,2009-05-07,exact,Xylosandrus germanus,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Clear cut,Clear cut,,,,low-patchy,high-patchy,low-patchy,,1.0,1.0,1.0,1,IT-004,2009-05-07
+19,19625,40845,2009-06-26,exact,Sphaeropsis sapinea,Pinus sylvestris,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,high-contiguous,high-contiguous,,high-contiguous,2.0,2.0,2.0,2.0,1,IT-004,2009-06-26
+20,19626,40846,2009-07-24,exact,Ips acuminatus,Pinus sylvestris,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,,,low-patchy,high-patchy,,2.0,2.0,2.0,1,IT-004,2009-07-24
+21,19627,40847,2009-05-27,exact,Rhynchaenus fagi,Fagus sylvatica,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-contiguous,low-contiguous,,,1.0,1.0,,,1,IT-004,2009-05-27
+22,19628,40848,2009-05-27,exact,Rhynchaenus fagi,Fagus sylvatica,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-contiguous,low-contiguous,,,1.0,1.0,,,1,IT-004,2009-05-27
+23,19629,40849,2009-05-27,exact,Rhynchaenus fagi,Fagus sylvatica,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-contiguous,low-contiguous,,,1.0,1.0,,,1,IT-004,2009-05-27
+24,19630,40850,2009-05-14,exact,Tortrix viridana,Quercus petraea,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,high-contiguous,,,,2.0,,,,1,IT-004,2009-05-14
+25,19631,40851,2009-05-29,exact,Tomostethus nigritus,Fraxinus excelsior,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-patchy,,,,2.0,,,,1,IT-004,2009-05-29
+26,19632,40852,2009-06-16,exact,Rhynchaenus fagi,Fagus sylvatica,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,low-contiguous,low-contiguous,,,1.0,1.0,,,1,IT-004,2009-06-16
+27,19633,40853,2009-05-26,exact,Sphaeropsis sapinea,Pinus nigra,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,,low-patchy,,,,1.0,,,1,IT-004,2009-05-26
+28,19634,40854,2009-05-26,exact,Heterobasidion annosum,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,low-patchy,,,,,1.0,,,1,IT-004,2009-05-26
+29,19635,40855,2009-05-20,exact,Cryphonectria parasitica,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,,,low-patchy,,,1.0,1.0,1,IT-004,2009-05-20
+30,19636,40856,2009-05-27,exact,unknown fungus,Ostrya carpinifolia,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,,,low-patchy,,,1.0,1.0,1,IT-004,2009-05-27
+31,19637,40857,2009-06-23,exact,,Quercus pubescens,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,,,,low-patchy,,,1.0,1.0,1,IT-004,2009-06-23
+32,19638,40858,2009-05-07,exact,Tortrix viridana,Quercus petraea,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,high-contiguous,,,,2.0,,,,1,IT-004,2009-05-07
+33,19639,40859,2009-05-07,exact,Operophthera brumata,Quercus petraea,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,high-contiguous,,,,2.0,,,,1,IT-004,2009-05-07
+34,19640,40860,2009-05-14,exact,Tortrix viridana,Quercus petraea,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,high-contiguous,,,,2.0,,,,1,IT-004,2009-05-14
+35,19641,40861,2009-05-07,exact,Tortrix viridana,Quercus petraea,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,,,,1.0,,,,1,IT-004,2009-05-07
+36,19642,40862,2009-05-07,exact,Operophthera brumata,Quercus petraea,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,,,,1.0,,,,1,IT-004,2009-05-07
+37,19643,40863,2010-04-22,exact,Tomicus destruens,Pinus pinaster,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,low-patchy,,low-patchy,1.0,1.0,,1.0,1,IT-004,2010-04-22
+38,19644,40864,2010-04-21,exact,unknown fungus,Quercus robur,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,low-contiguous,low-contiguous,,low-contiguous,1.0,1.0,,1.0,1,IT-004,2010-04-21
+39,19645,40865,2010-05-24,exact,Xylosandrus germanus,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,,,high-patchy,,,,,1.0,1,IT-004,2010-05-24
+40,19646,40866,2010-06-01,exact,Xylosandrus crassiusculus,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,,,high-patchy,,,,,,1,IT-004,2010-06-01
+41,19647,40867,2010-09-02,exact,Chrysomyxa rhododendri,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Shelterwood,,,,,,high-patchy,,,1.0,,1.0,1,IT-004,2010-09-02
+42,19648,40868,2010-05-05,exact,Tomostethus nigritus,Fraxinus angustifolia,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Clear cut,,,,high-contiguous,,,,2.0,,,,1,IT-004,2010-05-05
+43,19649,40869,2010-03-16,exact,unknown fungus,Ostrya carpinifolia,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,low-patchy,low-patchy,low-patchy,low-patchy,,,,,1,IT-004,2010-03-16
+44,19650,40870,2010-03-23,exact,Cryphonectria parasitica,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,,,,low-patchy,,,,1.0,1,IT-004,2010-03-23
+45,19651,40871,2010-05-01,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,low-patchy,low-patchy,low-patchy,low-patchy,,,,,1,IT-004,2010-05-01
+46,19652,40872,2010-05-01,exact,Chionaspis salicis,Mixed broadleaves,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,,,low-patchy,,,,,1,IT-004,2010-05-01
+47,19653,40873,2010-07-28,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,high-patchy,high-patchy,,,2.0,2.0,,,1,IT-004,2010-07-28
+48,19654,40874,2010-08-01,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,,,,low-patchy,,,,1.0,1,IT-004,2010-08-01
+49,19655,40875,2010-08-13,exact,Heterobasidion annosum,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Selective logging,,,,,,low-patchy,,,,1.0,1,IT-004,2010-08-13
+50,19656,40876,2010-08-13,exact,Armillaria ostoyae,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Selective logging,,,,,,low-patchy,,,,1.0,1,IT-004,2010-08-13
+51,19657,40877,2010-09-13,exact,Barbitistes vicetinus,Mixed broadleaves,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,,,,1.0,,,,1,IT-004,2010-09-13
+52,19658,40878,2010-11-14,exact,unknown fungus,Fagus sylvatica,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,,,,low-patchy,,,,1.0,1,IT-004,2010-11-14
+53,19659,40879,2010-04-22,exact,Xyleborus dispar,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,,,,,,,,,1,IT-004,2010-04-22
+54,19660,40880,2010-04-22,exact,Xylosandrus germanus,Castanea sativa,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,,,,,,,,,1,IT-004,2010-04-22
+55,19661,40881,2010-05-05,exact,Thaumetopoea pityocampa,Pinus nigra,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,low-patchy,,low-patchy,1.0,1.0,,1.0,1,IT-004,2010-05-05
+56,19662,40882,2010-06-01,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,,low-patchy,,,,,,1,IT-004,2010-06-01
+57,19663,40883,2010-07-08,exact,Ips acuminatus,Pinus sylvestris,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,high-patchy,high-patchy,,high-patchy,2.0,2.0,,2.0,1,IT-004,2010-07-08
+58,19664,40884,2010-07-06,exact,Coleophora laricella,Larix decidua,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-patchy,,,,2.0,,,,1,IT-004,2010-07-06
+59,19665,40885,2010-07-29,exact,Ips acuminatus,Pinus sylvestris,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,high-patchy,high-patchy,,high-patchy,2.0,2.0,,2.0,1,IT-004,2010-07-29
+60,19666,40886,2010-07-16,exact,Ips acuminatus,Pinus sylvestris,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,Clear cut,,,high-patchy,high-patchy,,high-patchy,2.0,2.0,,2.0,1,IT-004,2010-07-16
+61,19667,40887,2010-08-12,exact,Chrysomyxa rhododendri,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,high-patchy,,,,2.0,,,1,IT-004,2010-08-12
+62,19668,40888,2010-08-12,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,,,,high-patchy,,,,2.0,1,IT-004,2010-08-12
+63,19669,40889,2010-08-23,exact,Chrysomyxa rhododendri,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,high-patchy,,,,2.0,,,1,IT-004,2010-08-23
+64,19670,40890,2010-08-26,exact,Chrysomyxa rhododendri,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,high-patchy,,,,2.0,,,1,IT-004,2010-08-26
+65,19671,40891,2010-08-23,exact,Chrysomyxa rhododendri,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,high-patchy,,,,2.0,,,1,IT-004,2010-08-23
+66,19672,40892,2010-09-21,exact,Chrysomyxa rhododendri,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,high-patchy,,,,2.0,,,1,IT-004,2010-09-21
+67,19673,40893,2010-09-30,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,,,,high-patchy,,,,2.0,1,IT-004,2010-09-30
+68,19674,40894,2010-09-09,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,,,,high-patchy,,,,2.0,1,IT-004,2010-09-09
+69,19675,40895,2010-09-20,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,,,,high-patchy,,,,2.0,1,IT-004,2010-09-20
+70,19676,40896,2010-09-20,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,,,,low-patchy,,,,1.0,1,IT-004,2010-09-20
+71,19677,40897,2010-09-20,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,,,,high-patchy,,,,2.0,1,IT-004,2010-09-20
+72,19678,40898,2010-09-20,exact,Ips typographus,Picea abies,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,Clear cut,,,,,,low-patchy,,,,1.0,1,IT-004,2010-09-20
+73,19679,40899,2011-08-29,exact,Ips typographus,Picea abies,Defoliation,Field surveys,,,-1.0,,Italy,Selective logging,,,,low-patchy,low-patchy,,low-patchy,1.0,1.0,,1.0,1,IT-004,2011-08-29
+74,19680,40900,2011-01-24,exact,Ips typographus,Picea abies,Defoliation,Field surveys,,,-1.0,,Italy,Clear cut,,,,,,,low-patchy,,,,1.0,1,IT-004,2011-01-24
+75,19681,40901,2011-03-22,exact,Ips typographus,Picea abies,Defoliation,Field surveys,,,-1.0,,Italy,,,,,high-contiguous,high-contiguous,,high-contiguous,2.0,2.0,,2.0,1,IT-004,2011-03-22
+76,19682,40902,2011-05-01,exact,Nymphalis polycloros,Ulmus sp.,Defoliation,Field surveys,,,-1.0,,Italy,,,,,,,,,,,,,1,IT-004,2011-05-01
+77,19683,40903,2011-05-08,exact,Coleophora laricella,Larix decidua,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-contiguous,high-contiguous,,,2.0,2.0,,,1,IT-004,2011-05-08
+78,19684,40904,2011-05-08,exact,Coleophora laricella,Larix decidua,Defoliation,Field surveys,,,-1.0,,Italy,Selective logging,,,,high-contiguous,high-contiguous,,,2.0,2.0,,,1,IT-004,2011-05-08
+79,19685,40905,2011-08-12,exact,Aproceros leucopoda,Ulmus pumila,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-patchy,,,,2.0,,,,1,IT-004,2011-08-12
+80,19686,40906,2011-07-07,exact,Chalara fraxinea,Fraxinus excelsior,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,low-patchy,,low-patchy,,1.0,,1.0,1,IT-004,2011-07-07
+81,19687,40907,2011-04-28,exact,Tomostethus nigritus,Fraxinus angustifolia,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Clear cut,,,,high-contiguous,,,,2.0,,,,1,IT-004,2011-04-28
+82,19688,40908,2011-05-08,exact,Rhynchaenus ulmi,Ulmus sp.,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,low-patchy,,,1.0,1.0,,,1,IT-004,2011-05-08
+83,19689,40909,2011-05-12,exact,Yponomeuta sp.,Rhamnus cathartica,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-contiguous,,,,2.0,,,,1,IT-004,2011-05-12
+84,19690,40910,2011-05-12,exact,Yponomeuta sp.,Ligustrum vulgare,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-contiguous,,,,2.0,,,,1,IT-004,2011-05-12
+85,19691,40911,2011-05-12,exact,Yponomeuta sp.,Crataegus monogyna,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-contiguous,,,,2.0,,,,1,IT-004,2011-05-12
+86,19692,40912,2011-05-06,exact,Coleophora laricella,Larix decidua,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-contiguous,,,,2.0,,,,1,IT-004,2011-05-06
+87,19693,40913,2011-04-27,exact,Yponomeuta cagnagella,Euonymus europaeus,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,high-patchy,,,,2.0,,,,1,IT-004,2011-04-27
+88,19694,40914,2011-11-03,exact,Corythucha arcuata,Quercus castaneifolia,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,,,,1.0,,,,1,IT-004,2011-11-03
+89,19695,40915,2011-01-25,exact,Tomicus destruens,Pinus pinaster,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,,,low-patchy,,,,1.0,1,IT-004,2011-01-25
+90,19696,40916,2011-05-05,exact,Periclista lineolata,Quercus robur,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,low-contiguous,,,,1.0,,,,1,IT-004,2011-05-05
+91,19697,40917,2011-04-16,exact,Nymphalis polycloros,Prunus avium,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,,,,1.0,,,,1,IT-004,2011-04-16
+92,19698,40918,2011-04-16,exact,Nymphalis polycloros,Celtis australis,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,,,,1.0,,,,1,IT-004,2011-04-16
+93,19699,40919,2011-04-16,exact,Nymphalis polycloros,Ulmus sp.,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,low-patchy,,,,1.0,,,,1,IT-004,2011-04-16
+94,19700,40920,2011-07-22,exact,Corythucha arcuata,Quercus robur,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,,low-patchy,,low-patchy,,1.0,,1.0,1,IT-004,2011-07-22
+95,19701,40921,2011-05-03,exact,Yponomeuta sp.,Euonymus europaeus,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,high-patchy,,,,2.0,,,,1,IT-004,2011-05-03
+96,19702,40922,2011-04-30,exact,Yponomeuta sp.,Euonymus europaeus,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,high-patchy,,,,2.0,,,,1,IT-004,2011-04-30
+97,19703,40923,2011-04-28,exact,Tomostethus nigritus,Fraxinus sp.,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,high-patchy,,,,2.0,,,,1,IT-004,2011-04-28
+98,19704,40924,2011-05-01,exact,Nymphalis polycloros,Celtis australis,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,high-patchy,,,,2.0,,,,1,IT-004,2011-05-01
+99,19705,40925,2011-05-28,exact,Chalara fraxinea,Fraxinus excelsior,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,,low-patchy,,low-patchy,,1.0,,1.0,1,IT-004,2011-05-28
+100,19706,40926,2011-06-05,exact,Chalara fraxinea,Fraxinus excelsior,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,,low-patchy,,low-patchy,,1.0,,1.0,1,IT-004,2011-06-05
+101,19707,40927,2011-07-17,exact,Chalara fraxinea,Fraxinus excelsior,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,,,,,,,,low-patchy,,,,1.0,1,IT-004,2011-07-17
+102,19708,40928,2011-07-23,exact,Chalara fraxinea,Fraxinus excelsior,Defoliation,Field surveys,Pest/Disease,,-1.0,,Italy,Selective logging,,,,,low-patchy,,low-patchy,,1.0,,1.0,1,IT-004,2011-07-23
+103,19709,40929,2011-05-08,exact,Coleophora laricella,Larix decidua,Defoliation,Field surveys,,,-1.0,,Italy,Selective logging,,,,high-contiguous,high-contiguous,,,2.0,2.0,,,1,IT-004,2011-05-08
+104,19710,40930,2011-03-22,exact,Ips typographus,Picea abies,Defoliation,Field surveys,,,-1.0,,Italy,Selective logging,,,,high-patchy,high-patchy,,high-patchy,2.0,2.0,,2.0,1,IT-004,2011-03-22
+105,19711,40931,2011-05-09,exact,Yponomeuta sp.,,,Field surveys,,,-1.0,,Italy,,,,,high-contiguous,,,,2.0,,,,1,IT-004,2011-05-09
+106,19712,40932,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2009-07-25
+107,19713,40933,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2009-07-25
+108,19714,40934,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2009-07-25
+109,19715,40935,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2009-07-25
+110,19716,40936,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2009-07-25
+111,19717,40937,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2009-07-25
+112,19718,40938,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2009-07-25
+113,19719,40939,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2009-07-25
+114,19720,40940,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,4.0,2.0,1,ES-004,2009-07-25
+115,19721,40941,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,4.0,2.0,1,ES-004,2009-07-25
+116,19722,40942,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,4.0,2.0,1,ES-004,2009-07-25
+117,19723,40943,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,4.0,2.0,1,ES-004,2009-07-25
+118,19724,40944,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,4.0,2.0,1,ES-004,2009-07-25
+119,19725,40945,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,4.0,2.0,1,ES-004,2009-07-25
+120,19726,40946,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,4.0,2.0,1,ES-004,2009-07-25
+121,19727,40947,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,4.0,2.0,1,ES-004,2009-07-25
+122,19728,40948,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,4.0,2.0,1,ES-004,2009-07-25
+123,19729,40949,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+124,19730,40950,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+125,19731,40951,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+126,19732,40952,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+127,19733,40953,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+128,19734,40954,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+129,19735,40955,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+130,19736,40956,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+131,19737,40957,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+132,19738,40958,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+133,19739,40959,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+134,19740,40960,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+135,19741,40961,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+136,19742,40962,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+137,19743,40963,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+138,19744,40964,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+139,19745,40965,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+140,19746,40966,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+141,19747,40967,2009-07-25,+/- 7 days,Heterobasidion annosum,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,low-patchy,low-patchy,low-patchy,low-patchy,2.0,2.0,5.0,2.0,1,ES-004,2009-07-25
+142,19748,40968,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+143,19749,40969,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+144,19750,40970,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+145,19751,40971,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+146,19752,40972,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+147,19753,40973,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+148,19754,40974,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+149,19755,40975,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+150,19756,40976,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+151,19757,40977,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+152,19758,40978,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+153,19759,40979,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+154,19760,40980,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+155,19761,40981,2009-07-25,+/- 7 days,,Abies pinsapo,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Pest/Disease,,2009.0,,Spain,,,,,high-patchy,high-patchy,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2009-07-25
+156,19762,40982,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+157,19763,40983,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+158,19764,40984,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+159,19765,40985,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+160,19766,40986,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+161,19767,40987,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+162,19768,40988,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+163,19769,40989,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+164,19770,40990,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+165,19771,40991,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+166,19772,40992,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+167,19773,40993,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+168,19774,40994,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+169,19775,40995,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa","Pinus nigra,Pinus sylvestris","Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+170,19776,40996,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+171,19777,40997,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+172,19778,40998,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+173,19779,40999,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+174,19780,41000,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+175,19781,41001,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+176,19782,41002,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+177,19783,41003,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+178,19784,41004,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+179,19785,41005,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+180,19786,41006,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+181,19787,41007,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+182,19788,41008,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+183,19789,41009,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+184,19790,41010,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+185,19791,41011,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+186,19792,41012,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+187,19793,41013,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+188,19794,41014,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+189,19795,41015,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+190,19796,41016,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+191,19797,41017,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+192,19798,41018,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,4.0,2.0,1,ES-004,2012-08-24
+193,19799,41019,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+194,19800,41020,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+195,19801,41021,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+196,19802,41022,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+197,19803,41023,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+198,19804,41024,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-contiguous,low-contiguous,low-contiguous,low-contiguous,2.0,2.0,3.0,2.0,1,ES-004,2012-08-24
+199,19805,41025,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+200,19806,41026,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+201,19807,41027,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+202,19808,41028,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+203,19809,41029,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+204,19810,41030,2012-08-24,+/- 7 days,,Pinus nigra,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+205,19811,41031,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+206,19812,41032,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+207,19813,41033,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+208,19814,41034,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+209,19815,41035,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+210,19816,41036,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+211,19817,41037,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+212,19818,41038,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+213,19819,41039,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+214,19820,41040,2012-08-24,+/- 7 days,,Pinus sylvestris,Defoliation,Field surveys,,,,,Spain,,,,,,,,,,,,,0,ES-004,2012-08-24
+215,19821,41041,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+216,19822,41042,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+217,19823,41043,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+218,19824,41044,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+219,19825,41045,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+220,19826,41046,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+221,19827,41047,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+222,19828,41048,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+223,19829,41049,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+224,19830,41050,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+225,19831,41051,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+226,19832,41052,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus nigra,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+227,19833,41053,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+228,19834,41054,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+229,19835,41055,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+230,19836,41056,2012-08-24,+/- 7 days,"Brachyderes sp.,Thaumetopoea pityocampa",Pinus sylvestris,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-contiguous,high-contiguous,high-contiguous,high-contiguous,1.0,1.0,2.0,1.0,1,ES-004,2012-08-24
+231,19837,41057,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,2.0,1.0,1,ES-004,2012-08-25
+232,19838,41058,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2012-08-25
+233,19839,41059,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2012-08-25
+234,19840,41060,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2012-08-25
+235,19841,41061,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2012-08-25
+236,19842,41062,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2012-08-25
+237,19843,41063,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2012-08-25
+238,19844,41064,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2012-08-25
+239,19845,41065,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,2.0,1.0,3.0,2.0,1,ES-004,2012-08-25
+240,19846,41066,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2012-08-25
+241,19847,41067,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,2.0,1.0,3.0,2.0,1,ES-004,2012-08-25
+242,19848,41068,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,2.0,1.0,3.0,2.0,1,ES-004,2012-08-25
+243,19849,41069,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,2.0,1.0,3.0,2.0,1,ES-004,2012-08-25
+244,19850,41070,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,2.0,1.0,3.0,2.0,1,ES-004,2012-08-25
+245,19851,41071,2012-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2012.0,2012.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,2.0,1.0,1,ES-004,2012-08-25
+246,19852,41072,2017-08-25,+/- 7 days,,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2017-08-25
+247,19853,41073,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2017-08-25
+248,19854,41074,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,5.0,2.0,1,ES-004,2017-08-25
+249,19855,41075,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2017-08-25
+250,19856,41076,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2017-08-25
+251,19857,41077,2017-08-25,+/- 7 days,,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2017-08-25
+252,19858,41078,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+253,19859,41079,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+254,19860,41080,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+255,19861,41081,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+256,19862,41082,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+257,19863,41083,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+258,19864,41084,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+259,19865,41085,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+260,19866,41086,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+261,19867,41087,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+262,19868,41088,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+263,19869,41089,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+264,19870,41090,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+265,19871,41091,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,4.0,2.0,1,ES-004,2017-08-25
+266,19872,41092,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2017-08-25
+267,19873,41093,2017-08-25,+/- 7 days,,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2017-08-25
+268,19874,41094,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2017-08-25
+269,19875,41095,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,low-patchy,,low-patchy,low-patchy,2.0,1.0,5.0,2.0,1,ES-004,2017-08-25
+270,19876,41096,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2017-08-25
+271,19877,41097,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2017-08-25
+272,19878,41098,2017-08-25,+/- 7 days,,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,0,ES-004,2017-08-25
+273,19879,41099,2017-08-25,+/- 7 days,Phytophthora ramorum,Quercus ilex,"Defoliation,Discolouration,Mortality,Dieback",Field surveys,Drought,Pest/Disease,2017.0,2017.0,Spain,,,,,high-patchy,,high-patchy,high-patchy,1.0,1.0,1.0,1.0,1,ES-004,2017-08-25
+274,19880,41100,2015-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-06-30
+275,19881,41101,2015-08-14,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-14
+276,19882,41102,2015-08-14,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-14
+277,19883,41103,2015-08-14,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-14
+278,19884,41104,2015-08-14,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-14
+279,19885,41105,2015-08-14,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-14
+280,19886,41106,2015-08-14,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-14
+281,19887,41107,2015-08-14,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-14
+282,19888,41108,2015-08-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-27
+283,19889,41109,2015-08-27,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-27
+284,19890,41110,2015-08-27,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-27
+285,19891,41111,2015-08-27,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-27
+286,19892,41112,2015-08-28,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-28
+287,19893,41113,2015-08-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-28
+288,19894,41114,2015-08-28,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-28
+289,19895,41115,2015-08-30,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+290,19896,41116,2015-08-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+291,19897,41117,2015-08-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+292,19898,41118,2015-08-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+293,19899,41119,2015-08-30,exact,"Bursaphelenchus hellenicus,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+294,19900,41120,2015-08-30,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+295,19901,41121,2015-08-30,exact,Bursaphelenchus minutus,Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+296,19902,41122,2015-08-30,exact,Bursaphelenchus minutus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+297,19903,41123,2015-08-30,exact,Bursaphelenchus minutus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+298,19904,41124,2015-08-30,exact,Bursaphelenchus minutus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+299,19905,41125,2015-08-30,exact,Bursaphelenchus minutus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-08-30
+300,19906,41126,2015-09-01,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+301,19907,41127,2015-09-01,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+302,19908,41128,2015-09-01,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+303,19909,41129,2015-09-01,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+304,19910,41130,2015-09-01,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+305,19911,41131,2015-09-01,exact,"Bursaphelenchus fungivorus,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+306,19912,41132,2015-09-01,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+307,19913,41133,2015-09-01,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+308,19914,41134,2015-09-01,exact,Bursaphelenchus minutus,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+309,19915,41135,2015-09-01,exact,Bursaphelenchus minutus,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+310,19916,41136,2015-09-01,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+311,19917,41137,2015-09-01,exact,Bursaphelenchus minutus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+312,19918,41138,2015-09-01,exact,Bursaphelenchus minutus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+313,19919,41139,2015-09-01,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-01
+314,19920,41140,2015-09-02,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+315,19921,41141,2015-09-02,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+316,19922,41142,2015-09-02,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+317,19923,41143,2015-09-02,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+318,19924,41144,2015-09-02,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+319,19925,41145,2015-09-02,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+320,19926,41146,2015-09-02,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+321,19927,41147,2015-09-02,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+322,19928,41148,2015-09-02,exact,,Pinus radiata,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+323,19929,41149,2015-09-02,exact,,Pinus sylvestris,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+324,19930,41150,2015-09-02,exact,,Pinus sylvestris,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+325,19931,41151,2015-09-02,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+326,19932,41152,2015-09-02,exact,Bursaphelenchus minutus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+327,19933,41153,2015-09-02,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-02
+328,19934,41154,2015-09-03,exact,"Bursaphelenchus leoni,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-03
+329,19935,41155,2015-09-03,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-03
+330,19936,41156,2015-09-03,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-03
+331,19937,41157,2015-09-03,exact,"Bursaphelenchus leoni,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-03
+332,19938,41158,2015-09-03,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-03
+333,19939,41159,2015-09-03,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-03
+334,19940,41160,2015-09-03,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-03
+335,19941,41161,2015-09-03,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-03
+336,19942,41162,2015-09-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-08
+337,19943,41163,2015-09-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-08
+338,19944,41164,2015-09-08,exact,"Bursaphelenchus fungivorus,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-08
+339,19945,41165,2015-09-08,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-08
+340,19946,41166,2015-09-08,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-08
+341,19947,41167,2015-09-08,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-08
+342,19948,41168,2015-09-08,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-08
+343,19949,41169,2015-09-08,exact,,Pinus halepensis,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-08
+344,19950,41170,2015-09-10,exact,"Bursaphelenchus leoni,Bursaphelenchus sexdentati",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+345,19951,41171,2015-09-10,exact,Bursaphelenchus leoni,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+346,19952,41172,2015-09-10,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+347,19953,41173,2015-09-10,exact,"Bursaphelenchus leoni,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+348,19954,41174,2015-09-10,exact,"Bursaphelenchus leoni,Bursaphelenchus sexdentati,Bursaphelenchus teratospicularis",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+349,19955,41175,2015-09-10,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+350,19956,41176,2015-09-10,exact,"Bursaphelenchus minutus,Bursaphelenchus teratospicularis",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+351,19957,41177,2015-09-10,exact,Bursaphelenchus minutus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+352,19958,41178,2015-09-10,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+353,19959,41179,2015-09-10,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-10
+354,19960,41180,2015-09-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-11
+355,19961,41181,2015-09-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-11
+356,19962,41182,2015-09-11,exact,"Bursaphelenchus minutus,Bursaphelenchus sexdentati",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-11
+357,19963,41183,2015-09-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-11
+358,19964,41184,2015-09-11,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-11
+359,19965,41185,2015-09-11,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-11
+360,19966,41186,2015-09-11,exact,Bursaphelenchus fungivorus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-11
+361,19967,41187,2015-09-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+362,19968,41188,2015-09-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+363,19969,41189,2015-09-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+364,19970,41190,2015-09-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+365,19971,41191,2015-09-15,exact,,Pinus radiata,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+366,19972,41192,2015-09-15,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+367,19973,41193,2015-09-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+368,19974,41194,2015-09-15,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+369,19975,41195,2015-09-15,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+370,19976,41196,2015-09-15,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+371,19977,41197,2015-09-15,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-15
+372,19978,41198,2015-09-16,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-16
+373,19979,41199,2015-09-16,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-16
+374,19980,41200,2015-09-16,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-16
+375,19981,41201,2015-09-16,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-16
+376,19982,41202,2015-09-16,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-16
+377,19983,41203,2015-09-17,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-17
+378,19984,41204,2015-09-17,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-17
+379,19985,41205,2015-09-17,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-17
+380,19986,41206,2015-09-17,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-17
+381,19987,41207,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+382,19988,41208,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+383,19989,41209,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+384,19990,41210,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+385,19991,41211,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+386,19992,41212,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+387,19993,41213,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+388,19994,41214,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+389,19995,41215,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+390,19996,41216,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+391,19997,41217,2015-09-24,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-24
+392,19998,41218,2015-09-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-25
+393,19999,41219,2015-09-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-25
+394,20000,41220,2015-09-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-25
+395,20001,41221,2015-09-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-25
+396,20002,41222,2015-09-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-25
+397,20003,41223,2015-09-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-25
+398,20004,41224,2015-09-30,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-09-30
+399,20005,41225,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+400,20006,41226,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+401,20007,41227,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+402,20008,41228,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+403,20009,41229,2015-10-07,exact,Bursaphelenchus sexdentati,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+404,20010,41230,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+405,20011,41231,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+406,20012,41232,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+407,20013,41233,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+408,20014,41234,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+409,20015,41235,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+410,20016,41236,2015-10-07,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-07
+411,20017,41237,2015-10-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+412,20018,41238,2015-10-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+413,20019,41239,2015-10-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+414,20020,41240,2015-10-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+415,20021,41241,2015-10-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+416,20022,41242,2015-10-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+417,20023,41243,2015-10-08,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+418,20024,41244,2015-10-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+419,20025,41245,2015-10-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+420,20026,41246,2015-10-08,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+421,20027,41247,2015-10-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-08
+422,20028,41248,2015-10-14,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-14
+423,20029,41249,2015-10-14,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-14
+424,20030,41250,2015-10-14,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-14
+425,20031,41251,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+426,20032,41252,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+427,20033,41253,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+428,20034,41254,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+429,20035,41255,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+430,20036,41256,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+431,20037,41257,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+432,20038,41258,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+433,20039,41259,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+434,20040,41260,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+435,20041,41261,2015-10-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+436,20042,41262,2015-10-15,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+437,20043,41263,2015-10-15,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-15
+438,20044,41264,2015-10-19,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-19
+439,20045,41265,2015-10-19,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-19
+440,20046,41266,2015-10-19,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-19
+441,20047,41267,2015-10-19,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-19
+442,20048,41268,2015-10-19,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-19
+443,20049,41269,2015-10-19,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-19
+444,20050,41270,2015-10-19,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-19
+445,20051,41271,2015-10-19,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-19
+446,20052,41272,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+447,20053,41273,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+448,20054,41274,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+449,20055,41275,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+450,20056,41276,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+451,20057,41277,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+452,20058,41278,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+453,20059,41279,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+454,20060,41280,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+455,20061,41281,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+456,20062,41282,2015-10-20,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+457,20063,41283,2015-10-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-20
+458,20064,41284,2015-10-21,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-21
+459,20065,41285,2015-10-21,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-21
+460,20066,41286,2015-10-21,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-21
+461,20067,41287,2015-10-21,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-21
+462,20068,41288,2015-10-21,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-21
+463,20069,41289,2015-10-21,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-21
+464,20070,41290,2015-10-21,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-21
+465,20071,41291,2015-10-21,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-21
+466,20072,41292,2015-10-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-27
+467,20073,41293,2015-10-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-27
+468,20074,41294,2015-10-27,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-27
+469,20075,41295,2015-10-27,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-27
+470,20076,41296,2015-10-27,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-27
+471,20077,41297,2015-10-27,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-27
+472,20078,41298,2015-10-27,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-27
+473,20079,41299,2015-10-27,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-27
+474,20080,41300,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+475,20081,41301,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+476,20082,41302,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+477,20083,41303,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+478,20084,41304,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+479,20085,41305,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+480,20086,41306,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+481,20087,41307,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+482,20088,41308,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+483,20089,41309,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+484,20090,41310,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+485,20091,41311,2015-10-28,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+486,20092,41312,2015-10-28,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+487,20093,41313,2015-10-28,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+488,20094,41314,2015-10-28,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-28
+489,20095,41315,2015-10-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-30
+490,20096,41316,2015-10-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-30
+491,20097,41317,2015-10-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-30
+492,20098,41318,2015-10-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-10-30
+493,20099,41319,2015-11-04,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-04
+494,20100,41320,2015-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-04
+495,20101,41321,2015-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-04
+496,20102,41322,2015-11-05,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+497,20103,41323,2015-11-05,exact,,Pinus halepensis,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+498,20104,41324,2016-04-10,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-04-10
+499,20105,41325,2016-09-12,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-12
+500,20106,41326,2016-09-12,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-12
+501,20107,41327,2016-09-12,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-12
+502,20108,41328,2016-09-12,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-12
+503,20109,41329,2016-09-12,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-12
+504,20110,41330,2016-09-12,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-12
+505,20111,41331,2016-09-12,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-12
+506,20112,41332,2016-09-12,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-12
+507,20113,41333,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+508,20114,41334,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+509,20115,41335,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+510,20116,41336,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+511,20117,41337,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+512,20118,41338,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+513,20119,41339,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+514,20120,41340,2016-09-20,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+515,20121,41341,2016-09-20,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+516,20122,41342,2016-09-20,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+517,20123,41343,2016-09-20,exact,Bursaphelenchus leoni,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+518,20124,41344,2016-09-20,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+519,20125,41345,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+520,20126,41346,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+521,20127,41347,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+522,20128,41348,2016-09-20,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-20
+523,20129,41349,2016-09-27,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+524,20130,41350,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+525,20131,41351,2016-09-27,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+526,20132,41352,2016-09-27,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+527,20133,41353,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+528,20134,41354,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+529,20135,41355,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+530,20136,41356,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+531,20137,41357,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+532,20138,41358,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+533,20139,41359,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+534,20140,41360,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+535,20141,41361,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+536,20142,41362,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+537,20143,41363,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+538,20144,41364,2016-09-27,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+539,20145,41365,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+540,20146,41366,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+541,20147,41367,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+542,20148,41368,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+543,20149,41369,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+544,20150,41370,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+545,20151,41371,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+546,20152,41372,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+547,20153,41373,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+548,20154,41374,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+549,20155,41375,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+550,20156,41376,2016-10-04,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+551,20157,41377,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+552,20158,41378,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+553,20159,41379,2016-10-04,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+554,20160,41380,2016-10-04,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+555,20161,41381,2016-10-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+556,20162,41382,2016-10-04,exact,,Pinus sylvestris,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-04
+557,20163,41383,2016-10-11,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+558,20164,41384,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+559,20165,41385,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+560,20166,41386,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+561,20167,41387,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+562,20168,41388,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+563,20169,41389,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+564,20170,41390,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+565,20171,41391,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+566,20172,41392,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+567,20173,41393,2016-10-11,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+568,20174,41394,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+569,20175,41395,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+570,20176,41396,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+571,20177,41397,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+572,20178,41398,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+573,20179,41399,2016-10-11,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-11
+574,20180,41400,2016-10-18,exact,Bursaphelenchus sexdentati,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+575,20181,41401,2016-10-18,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+576,20182,41402,2016-10-18,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+577,20183,41403,2016-10-18,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+578,20184,41404,2016-10-18,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+579,20185,41405,2016-10-18,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+580,20186,41406,2016-10-18,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+581,20187,41407,2016-10-18,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+582,20188,41408,2016-10-18,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+583,20189,41409,2016-10-18,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+584,20190,41410,2016-10-18,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+585,20191,41411,2016-10-25,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-25
+586,20192,41412,2016-10-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-25
+587,20193,41413,2016-10-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-25
+588,20194,41414,2016-10-26,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-26
+589,20195,41415,2016-10-26,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-26
+590,20196,41416,2016-10-26,exact,Bursaphelenchus sexdentati,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-26
+591,20197,41417,2016-10-26,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-26
+592,20198,41418,2016-10-26,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-26
+593,20199,41419,2016-10-26,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-26
+594,20200,41420,2016-10-26,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-26
+595,20201,41421,2016-10-26,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-26
+596,20202,41422,2016-10-26,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-26
+597,20203,41423,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+598,20204,41424,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+599,20205,41425,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+600,20206,41426,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+601,20207,41427,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+602,20208,41428,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+603,20209,41429,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+604,20210,41430,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+605,20211,41431,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+606,20212,41432,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+607,20213,41433,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+608,20214,41434,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+609,20215,41435,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+610,20216,41436,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+611,20217,41437,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+612,20218,41438,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+613,20219,41439,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+614,20220,41440,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+615,20221,41441,2016-11-04,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+616,20222,41442,2016-11-04,exact,"Bursaphelenchus hellenicus,Bursaphelenchus leoni,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-04
+617,20223,41443,2016-11-08,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+618,20224,41444,2016-11-08,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+619,20225,41445,2016-11-08,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+620,20226,41446,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+621,20227,41447,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+622,20228,41448,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+623,20229,41449,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+624,20230,41450,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+625,20231,41451,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+626,20232,41452,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+627,20233,41453,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+628,20234,41454,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+629,20235,41455,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+630,20236,41456,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+631,20237,41457,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+632,20238,41458,2016-11-08,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-08
+633,20239,41459,2016-11-10,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-10
+634,20240,41460,2016-11-10,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-10
+635,20241,41461,2016-11-10,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-10
+636,20242,41462,2016-11-10,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-10
+637,20243,41463,2016-11-15,exact,"Bursaphelenchus minutus,Bursaphelenchus sexdentati",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+638,20244,41464,2016-11-15,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+639,20245,41465,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+640,20246,41466,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+641,20247,41467,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+642,20248,41468,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+643,20249,41469,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+644,20250,41470,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+645,20251,41471,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+646,20252,41472,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+647,20253,41473,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+648,20254,41474,2016-11-15,exact,,Pinus radiata,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+649,20255,41475,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+650,20256,41476,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+651,20257,41477,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+652,20258,41478,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+653,20259,41479,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+654,20260,41480,2016-11-15,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+655,20261,41481,2016-11-15,exact,"Bursaphelenchus minutus,Bursaphelenchus sexdentati",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+656,20262,41482,2016-11-15,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+657,20263,41483,2016-11-15,exact,"Bursaphelenchus leoni,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-15
+658,20264,41484,2016-11-22,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-22
+659,20265,41485,2016-11-23,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+660,20266,41486,2016-11-23,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+661,20267,41487,2016-11-23,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+662,20268,41488,2016-11-23,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+663,20269,41489,2016-11-23,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+664,20270,41490,2016-11-23,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+665,20271,41491,2016-11-23,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+666,20272,41492,2016-11-23,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+667,20273,41493,2016-11-23,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+668,20274,41494,2016-11-23,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
+669,20275,41495,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+670,20276,41496,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+671,20277,41497,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+672,20278,41498,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+673,20279,41499,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+674,20280,41500,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+675,20281,41501,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+676,20282,41502,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+677,20283,41503,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+678,20284,41504,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+679,20285,41505,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+680,20286,41506,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+681,20287,41507,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+682,20288,41508,2016-11-25,exact,Bursaphelenchus minutus,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+683,20289,41509,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+684,20290,41510,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+685,20291,41511,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+686,20292,41512,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+687,20293,41513,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+688,20294,41514,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+689,20295,41515,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+690,20296,41516,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+691,20297,41517,2016-11-25,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+692,20298,41518,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+693,20299,41519,2016-11-25,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+694,20300,41520,2016-11-25,exact,"Bursaphelenchus leoni,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-25
+695,20301,41521,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+696,20302,41522,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+697,20303,41523,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+698,20304,41524,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+699,20305,41525,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+700,20306,41526,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+701,20307,41527,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+702,20308,41528,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+703,20309,41529,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+704,20310,41530,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+705,20311,41531,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+706,20312,41532,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+707,20313,41533,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+708,20314,41534,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+709,20315,41535,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+710,20316,41536,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+711,20317,41537,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+712,20318,41538,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+713,20319,41539,2017-06-30,exact,"Bursaphelenchus teratospicularis,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+714,20320,41540,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+715,20321,41541,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+716,20322,41542,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+717,20323,41543,2017-06-30,exact,Cerambycidae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+718,20324,41544,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+719,20325,41545,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2017-06-30
+720,20326,41546,2017-06-30,exact,Cerambycidae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+721,20327,41547,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+722,20328,41548,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+723,20329,41549,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+724,20330,41550,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+725,20331,41551,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+726,20332,41552,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+727,20333,41553,2017-06-30,exact,Bursaphelenchus leoni,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+728,20334,41554,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+729,20335,41555,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+730,20336,41556,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2017-06-30
+731,20337,41557,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+732,20338,41558,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+733,20339,41559,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+734,20340,41560,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+735,20341,41561,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+736,20342,41562,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+737,20343,41563,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+738,20344,41564,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+739,20345,41565,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+740,20346,41566,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+741,20347,41567,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+742,20348,41568,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+743,20349,41569,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2017-06-30
+744,20350,41570,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+745,20351,41571,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+746,20352,41572,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+747,20353,41573,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+748,20354,41574,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+749,20355,41575,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+750,20356,41576,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+751,20357,41577,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+752,20358,41578,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+753,20359,41579,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+754,20360,41580,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+755,20361,41581,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+756,20362,41582,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+757,20363,41583,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+758,20364,41584,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+759,20365,41585,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+760,20366,41586,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+761,20367,41587,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+762,20368,41588,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+763,20369,41589,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+764,20370,41590,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+765,20371,41591,2017-06-30,exact,Bursaphelenchus tusciae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+766,20372,41592,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+767,20373,41593,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+768,20374,41594,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+769,20375,41595,2017-06-30,exact,"Bursaphelenchus minutus,unknown insects",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+770,20376,41596,2017-06-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+771,20377,41597,2017-06-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+772,20378,41598,2017-06-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+773,20379,41599,2017-06-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+774,20380,41600,2017-06-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+775,20381,41601,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+776,20382,41602,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+777,20383,41603,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+778,20384,41604,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+779,20385,41605,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+780,20386,41606,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+781,20387,41607,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+782,20388,41608,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+783,20389,41609,2017-06-30,exact,"Cerambycidae,Scolotinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+784,20390,41610,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+785,20391,41611,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+786,20392,41612,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+787,20393,41613,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2017-06-30
+788,20394,41614,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2017-06-30
+789,20395,41615,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+790,20396,41616,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+791,20397,41617,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+792,20398,41618,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+793,20399,41619,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+794,20400,41620,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+795,20401,41621,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+796,20402,41622,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+797,20403,41623,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+798,20404,41624,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+799,20405,41625,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+800,20406,41626,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+801,20407,41627,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+802,20408,41628,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+803,20409,41629,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+804,20410,41630,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+805,20411,41631,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+806,20412,41632,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+807,20413,41633,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+808,20414,41634,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+809,20415,41635,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+810,20416,41636,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+811,20417,41637,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+812,20418,41638,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+813,20419,41639,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+814,20420,41640,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+815,20421,41641,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+816,20422,41642,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+817,20423,41643,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+818,20424,41644,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+819,20425,41645,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+820,20426,41646,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+821,20427,41647,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+822,20428,41648,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+823,20429,41649,2017-06-30,exact,Scolytinae,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+824,20430,41650,2017-06-30,exact,Cerambycidae,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+825,20431,41651,2017-06-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+826,20432,41652,2017-06-30,exact,Scolytinae,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+827,20433,41653,2017-06-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+828,20434,41654,2017-06-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+829,20435,41655,2017-06-30,exact,,Pinus radiata,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+830,20436,41656,2017-06-30,exact,,Pinus radiata,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+831,20437,41657,2017-06-30,exact,,Pseudotsuga menziesii,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+832,20438,41658,2017-06-30,exact,Cerambycidae,Pinus radiata,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+833,20439,41659,2017-06-30,exact,,Pseudotsuga menziesii,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+834,20440,41660,2017-06-30,exact,,Pseudotsuga menziesii,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+835,20441,41661,2017-06-30,exact,,Pseudotsuga menziesii,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+836,20442,41662,2017-06-30,exact,"Bursaphelenchus minutus,Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+837,20443,41663,2017-06-30,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+838,20444,41664,2017-06-30,exact,"Bursaphelenchus minutus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+839,20445,41665,2017-06-30,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+840,20446,41666,2017-06-30,exact,"Bursaphelenchus minutus,Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+841,20447,41667,2017-06-30,exact,"Bursaphelenchus minutus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+842,20448,41668,2017-06-30,exact,"Bursaphelenchus minutus,Cerambycidae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+843,20449,41669,2017-06-30,exact,"Bursaphelenchus minutus,Bursaphelenchus teratospicularis,Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+844,20450,41670,2017-06-30,exact,"Bursaphelenchus minutus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+845,20451,41671,2017-06-30,exact,"Bursaphelenchus minutus,unknown insects",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+846,20452,41672,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+847,20453,41673,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+848,20454,41674,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+849,20455,41675,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+850,20456,41676,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+851,20457,41677,2017-06-30,exact,Scolytinae,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+852,20458,41678,2017-06-30,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+853,20459,41679,2017-06-30,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+854,20460,41680,2017-06-30,exact,Scolytinae,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+855,20461,41681,2017-06-30,exact,unknown insects,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+856,20462,41682,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+857,20463,41683,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2017-06-30
+858,20464,41684,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+859,20465,41685,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+860,20466,41686,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+861,20467,41687,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+862,20468,41688,2017-06-30,exact,"Bursaphelenchus minutus,unknown insects",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+863,20469,41689,2017-06-30,exact,"Bursaphelenchus leoni,Bursaphelenchus minutus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+864,20470,41690,2017-06-30,exact,"Bursaphelenchus minutus,unknown insects",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+865,20471,41691,2017-06-30,exact,"Bursaphelenchus minutus,Bursaphelenchus sexdentati,unknown insects",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+866,20472,41692,2017-06-30,exact,Bursaphelenchus minutus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+867,20473,41693,2017-06-30,exact,"Bursaphelenchus minutus,unknown insects",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2017-06-30
+868,20474,41694,2017-06-30,exact,"Bursaphelenchus andrassyi,Bursaphelenchus minutus,Cerambycidae",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+869,20475,41695,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2017-06-30
+870,20476,41696,2017-06-30,exact,,Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+871,20477,41697,2017-06-30,exact,unknown insects,Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2017-06-30
+872,20478,41698,2017-06-30,exact,,Pinus halepensis,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+873,20479,41699,2017-06-30,exact,,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+874,20480,41700,2017-06-30,exact,"Bursaphelenchus minutus,Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+875,20481,41701,2017-06-30,exact,,Pinus halepensis,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+876,20482,41702,2017-06-30,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+877,20483,41703,2017-06-30,exact,Bursaphelenchus minutus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+878,20484,41704,2017-06-30,exact,Scolytinae,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+879,20485,41705,2017-06-30,exact,"Cerambycidae,Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+880,20486,41706,2017-06-30,exact,Scolytinae,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+881,20487,41707,2017-06-30,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+882,20488,41708,2017-06-30,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+883,20489,41709,2017-06-30,exact,,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+884,20490,41710,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+885,20491,41711,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+886,20492,41712,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+887,20493,41713,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+888,20494,41714,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+889,20495,41715,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+890,20496,41716,2017-06-30,exact,unknown insects,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+891,20497,41717,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+892,20498,41718,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2017-06-30
+893,20499,41719,2017-06-30,exact,,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2017-06-30
+894,20500,41720,2018-03-30,exact,"Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2018-03-30
+895,20501,41721,2018-03-30,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-03-30
+896,20502,41722,2018-03-30,exact,"Cerambycidae,Laimaphelenchus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-03-30
+897,20503,41723,2018-03-30,exact,Laimaphelenchus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-03-30
+898,20504,41724,2018-04-06,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-06
+899,20505,41725,2018-04-06,exact,"Bursaphelenchus minutus,Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-06
+900,20506,41726,2018-04-06,exact,"Bursaphelenchus tusciae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-06
+901,20507,41727,2018-04-06,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-04-06
+902,20508,41728,2018-04-06,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-06
+903,20509,41729,2018-04-06,exact,"Aphelenchoides,Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-06
+904,20510,41730,2018-04-10,exact,Aphelenchoides,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-10
+905,20511,41731,2018-04-10,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-10
+906,20512,41732,2018-04-10,exact,"Aphelenchoides,Bursaphelenchus sexdentati,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-10
+907,20513,41733,2018-04-10,exact,Aphelenchoides,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-10
+908,20514,41734,2018-04-10,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-10
+909,20515,41735,2018-04-10,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-10
+910,20516,41736,2018-04-10,exact,"Aphelenchoides,Neotylenchidae,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-10
+911,20517,41737,2018-04-12,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-12
+912,20518,41738,2018-04-12,exact,"Bursaphelenchus minutus,Neotylenchidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-12
+913,20519,41739,2018-04-12,exact,"Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-12
+914,20520,41740,2018-04-12,exact,"Bursaphelenchus tusciae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-04-12
+915,20521,41741,2018-04-12,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-12
+916,20522,41742,2018-04-12,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-12
+917,20523,41743,2018-04-12,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-12
+918,20524,41744,2018-04-20,exact,Aphelenchoides,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-20
+919,20525,41745,2018-04-20,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-20
+920,20526,41746,2018-04-20,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-20
+921,20527,41747,2018-04-20,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-20
+922,20528,41748,2018-04-20,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-20
+923,20529,41749,2018-04-20,exact,"Bursaphelenchus minutus,Laimaphelenchus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-20
+924,20530,41750,2018-04-24,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-24
+925,20531,41751,2018-04-24,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-24
+926,20532,41752,2018-04-24,exact,Aphelenchoides,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-24
+927,20533,41753,2018-04-24,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-24
+928,20534,41754,2018-04-24,exact,"Bursaphelenchus minutus,Bursaphelenchus tusciae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-24
+929,20535,41755,2018-04-24,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-24
+930,20536,41756,2018-04-24,exact,"Bursaphelenchus minutus,Laimaphelenchus,Neotylenchidae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-24
+931,20537,41757,2018-04-26,exact,"Cerambycidae,Laimaphelenchus,Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+932,20538,41758,2018-04-26,exact,"Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+933,20539,41759,2018-04-26,exact,"Aphelenchoides,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus sylvestris,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-26
+934,20540,41760,2018-04-26,exact,"Aphelenchoides,Bursaphelenchus minutus",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+935,20541,41761,2018-04-26,exact,Saprophytes (Engl.),Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-04-26
+936,20542,41762,2018-04-26,exact,Laimaphelenchus,Pinus strobus,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2018-04-26
+937,20543,41763,2018-04-26,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-04-26
+938,20544,41764,2018-04-26,exact,"Neotylenchidae,Saprophytes (Engl.),Scolytinae",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-26
+939,20545,41765,2018-04-26,exact,"Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+940,20546,41766,2018-04-26,exact,"Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+941,20547,41767,2018-04-26,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+942,20548,41768,2018-04-26,exact,"Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+943,20549,41769,2018-04-26,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+944,20550,41770,2018-04-26,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+945,20551,41771,2018-04-26,exact,Aphelenchoides,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+946,20552,41772,2018-04-26,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-04-26
+947,20553,41773,2018-04-26,exact,Neotylenchidae,Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-04-26
+948,20554,41774,2018-04-26,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-26
+949,20555,41775,2018-04-26,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-26
+950,20556,41776,2018-04-26,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-04-26
+951,20557,41777,2018-04-26,exact,"Cerambycidae,Laimaphelenchus,Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-26
+952,20558,41778,2018-04-27,exact,"Laimaphelenchus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+953,20559,41779,2018-04-27,exact,"Laimaphelenchus,Neotylenchidae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+954,20560,41780,2018-04-27,exact,"Aphelenchoides,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+955,20561,41781,2018-04-27,exact,"Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+956,20562,41782,2018-04-27,exact,"Aphelenchoides,Bursaphelenchus minutus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+957,20563,41783,2018-04-27,exact,"Aphelenchoides,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+958,20564,41784,2018-04-27,exact,"Cerambycidae,Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+959,20565,41785,2018-04-27,exact,"Aphelenchoides,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+960,20566,41786,2018-04-27,exact,"Neotylenchidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+961,20567,41787,2018-04-27,exact,Laimaphelenchus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-04-27
+962,20568,41788,2018-05-15,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-15
+963,20569,41789,2018-05-15,exact,"Bursaphelenchus ssp.,Scolytinae",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-15
+964,20570,41790,2018-05-15,exact,Neotylenchidae,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-15
+965,20571,41791,2018-05-15,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-15
+966,20572,41792,2018-05-15,exact,"Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-15
+967,20573,41793,2018-05-15,exact,Laimaphelenchus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-15
+968,20574,41794,2018-05-15,exact,Laimaphelenchus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-15
+969,20575,41795,2018-05-17,exact,"Bursaphelenchus minutus,Laimaphelenchus,Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-17
+970,20576,41796,2018-05-17,exact,"Aphelenchoides,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-05-17
+971,20577,41797,2018-05-17,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-05-17
+972,20578,41798,2018-05-17,exact,"Bursaphelenchus minutus,Bursaphelenchus teratospicularis,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-05-17
+973,20579,41799,2018-05-17,exact,"Bursaphelenchus minutus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2018-05-17
+974,20580,41800,2018-05-17,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-17
+975,20581,41801,2018-05-17,exact,"Bursaphelenchus minutus,Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-17
+976,20582,41802,2018-05-17,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-17
+977,20583,41803,2018-05-17,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-17
+978,20584,41804,2018-05-17,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-17
+979,20585,41805,2018-05-23,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-05-23
+980,20586,41806,2018-05-23,exact,Aphelenchoides,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-23
+981,20587,41807,2018-05-23,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-23
+982,20588,41808,2018-05-23,exact,"Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2018-05-23
+983,20589,41809,2018-05-23,exact,"Bursaphelenchus minutus,Laimaphelenchus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2018-05-23
+984,20590,41810,2018-05-23,exact,"Bursaphelenchus minutus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-23
+985,20591,41811,2018-05-23,exact,Laimaphelenchus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-23
+986,20592,41812,2018-05-23,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-23
+987,20593,41813,2018-05-23,exact,"Laimaphelenchus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-05-23
+988,20594,41814,2018-05-23,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-23
+989,20595,41815,2018-05-23,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-23
+990,20596,41816,2018-05-23,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-05-23
+991,20597,41817,2018-05-23,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-23
+992,20598,41818,2018-05-24,exact,"Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-24
+993,20599,41819,2018-05-24,exact,"Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-24
+994,20600,41820,2018-05-24,exact,"Bursaphelenchus leoni,Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-05-24
+995,20601,41821,2018-05-24,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-24
+996,20602,41822,2018-05-24,exact,"Aphelenchoides,Saprophytes (Engl.)",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-24
+997,20603,41823,2018-05-24,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2018-05-24
+998,20604,41824,2018-05-24,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-05-24
+999,20605,41825,2018-05-25,exact,"Aphelenchoides,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-25
+1000,20606,41826,2018-05-25,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-05-25
+1001,20607,41827,2018-06-05,exact,"Neotylenchidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-06-05
+1002,20608,41828,2018-06-05,exact,Laimaphelenchus,Pinus halepensis,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-05
+1003,20609,41829,2018-06-05,exact,"Bursaphelenchus minutus,Cerambycidae,Curculionidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-05
+1004,20610,41830,2018-06-05,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-05
+1005,20611,41831,2018-06-05,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-05
+1006,20612,41832,2018-06-06,exact,"Bursaphelenchus minutus,Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-06
+1007,20613,41833,2018-06-06,exact,Saprophytes (Engl.),Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-06
+1008,20614,41834,2018-06-06,exact,"Bursaphelenchus minutus,Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-06
+1009,20615,41835,2018-06-07,exact,"Aphelenchoides,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-07
+1010,20616,41836,2018-06-07,exact,Laimaphelenchus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-07
+1011,20617,41837,2018-06-12,exact,"Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-12
+1012,20618,41838,2018-06-12,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-12
+1013,20619,41839,2018-06-12,exact,"Aphelenchoides,Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-12
+1014,20620,41840,2018-06-14,exact,Laimaphelenchus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-14
+1015,20621,41841,2018-06-14,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-06-14
+1016,20622,41842,2018-06-14,exact,Aphelenchoides,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-14
+1017,20623,41843,2018-06-14,exact,"Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-14
+1018,20624,41844,2018-06-14,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-14
+1019,20625,41845,2018-06-19,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-19
+1020,20626,41846,2018-06-19,exact,Laimaphelenchus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-19
+1021,20627,41847,2018-06-19,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-06-19
+1022,20628,41848,2018-06-19,exact,"Neotylenchidae,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-06-19
+1023,20629,41849,2018-06-19,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-19
+1024,20630,41850,2018-06-19,exact,Saprophytes (Engl.),Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-19
+1025,20631,41851,2018-06-19,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-19
+1026,20632,41852,2018-06-19,exact,"Cerambycidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-19
+1027,20633,41853,2018-06-19,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-19
+1028,20634,41854,2018-06-19,exact,"Cerambycidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-19
+1029,20635,41855,2018-06-19,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-06-19
+1030,20636,41856,2018-06-19,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus radiata,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-06-19
+1031,20637,41857,2018-07-18,exact,"Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-07-18
+1032,20638,41858,2018-07-30,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-07-30
+1033,20639,41859,2018-07-30,exact,"Aphelenchoides,Bursaphelenchus minutus,Bursaphelenchus teratospicularis,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-07-30
+1034,20640,41860,2018-07-30,exact,"Bursaphelenchus minutus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-07-30
+1035,20641,41861,2018-09-24,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-24
+1036,20642,41862,2018-09-24,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-24
+1037,20643,41863,2018-09-24,exact,"Bursaphelenchus minutus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-24
+1038,20644,41864,2018-09-24,exact,Saprophytes (Engl.),Pinus halepensis,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-24
+1039,20645,41865,2018-09-24,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-09-24
+1040,20646,41866,2018-09-27,exact,"Bursaphelenchus sexdentati,Laimaphelenchus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1041,20647,41867,2018-09-27,exact,"Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1042,20648,41868,2018-09-27,exact,"Laimaphelenchus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1043,20649,41869,2018-09-27,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1044,20650,41870,2018-09-27,exact,"Aphelenchoides,Cerambycidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1045,20651,41871,2018-09-27,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1046,20652,41872,2018-09-27,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1047,20653,41873,2018-09-27,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,4.0,,1,IT-001,2018-09-27
+1048,20654,41874,2018-09-27,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1049,20655,41875,2018-09-27,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus radiata,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1050,20656,41876,2018-09-27,exact,Laimaphelenchus,Pinus radiata,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1051,20657,41877,2018-09-27,exact,Laimaphelenchus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1052,20658,41878,2018-09-27,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1053,20659,41879,2018-09-27,exact,"Aphelenchoides,Bursaphelenchus minutus,Bursaphelenchus teratospicularis,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,3.0,,1,IT-001,2018-09-27
+1054,20660,41880,2018-09-27,exact,"Bursaphelenchus minutus,Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-09-27
+1055,20661,41881,2018-09-27,exact,"Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1056,20662,41882,2018-09-27,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1057,20663,41883,2018-09-27,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1058,20664,41884,2018-09-27,exact,"Neotylenchidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1059,20665,41885,2018-09-27,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1060,20666,41886,2018-09-27,exact,"Bursaphelenchus ssp.,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1061,20667,41887,2018-09-27,exact,"Aphelenchoides,Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-27
+1062,20668,41888,2018-09-28,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus halepensis,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-28
+1063,20669,41889,2018-09-28,exact,"Curculionidae,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-28
+1064,20670,41890,2018-09-28,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-28
+1065,20671,41891,2018-09-28,exact,"Aphelenchoides,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-28
+1066,20672,41892,2018-09-28,exact,"Bursaphelenchus minutus,Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-28
+1067,20673,41893,2018-09-28,exact,"Laimaphelenchus,Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-09-28
+1068,20674,41894,2018-09-28,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-09-28
+1069,20675,41895,2018-09-28,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-28
+1070,20676,41896,2018-09-28,exact,"Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-28
+1071,20677,41897,2018-09-30,exact,"Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-09-30
+1072,20678,41898,2018-09-30,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-09-30
+1073,20679,41899,2018-09-30,exact,"Bursaphelenchus minutus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-09-30
+1074,20680,41900,2018-10-05,exact,"Bursaphelenchus minutus,Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-10-05
+1075,20681,41901,2018-10-05,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-10-05
+1076,20682,41902,2018-10-05,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-10-05
+1077,20683,41903,2018-10-05,exact,"Bursaphelenchus minutus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2018-10-05
+1078,20684,41904,2018-10-05,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-10-05
+1079,20685,41905,2018-10-05,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-10-05
+1080,20686,41906,2018-10-09,exact,"Bursaphelenchus minutus,Neotylenchidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-10-09
+1081,20687,41907,2018-10-09,exact,Laimaphelenchus,Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-10-09
+1082,20688,41908,2018-10-15,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2018-10-15
+1083,20689,41909,2019-02-07,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-02-07
+1084,20690,41910,2019-03-08,exact,Laimaphelenchus,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-08
+1085,20691,41911,2019-03-08,exact,"Laimaphelenchus,Saprophytes (Engl.),Scolytinae - Tomicus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-08
+1086,20692,41912,2019-03-08,exact,"Aphelenchoides,Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-08
+1087,20693,41913,2019-03-08,exact,"Bursaphelenchus leoni,Bursaphelenchus minutus,Cerambycidae,Laimaphelenchus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-08
+1088,20694,41914,2019-03-08,exact,"Bursaphelenchus minutus,Bursaphelenchus sexdentati,Cerambycidae,Saprophytes (Engl.),Scolotinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-08
+1089,20695,41915,2019-03-08,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-08
+1090,20696,41916,2019-03-08,exact,"Aphelenchoides,Laimaphelenchus,Saprophytes (Engl.),Scolytinae - Tomicus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-08
+1091,20697,41917,2019-03-15,exact,"Aphelenchoides,Cerambycidae,Saprophytes (Engl.)",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-15
+1092,20698,41918,2019-03-15,exact,"Aphelenchoides,Bursaphelenchus ssp.,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-15
+1093,20699,41919,2019-03-15,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-15
+1094,20700,41920,2019-03-15,exact,"Bursaphelenchus tusciae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-15
+1095,20701,41921,2019-03-15,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.)",Pseudotsuga menziesii,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-15
+1096,20702,41922,2019-03-15,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolotinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-15
+1097,20703,41923,2019-03-15,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae - Tomicus",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-15
+1098,20704,41924,2019-03-15,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Neotylenchidae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-15
+1099,20705,41925,2019-03-15,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-15
+1100,20706,41926,2019-03-15,exact,"Bursaphelenchus minutus,Bursaphelenchus sexdentati,Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-15
+1101,20707,41927,2019-03-19,exact,"Aphelenchoides,Bursaphelenchus minutus,Bursaphelenchus teratospicularis,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-19
+1102,20708,41928,2019-03-19,exact,"Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-19
+1103,20709,41929,2019-03-19,exact,"Bursaphelenchus abietinus,Saprophytes (Engl.),Scolytinae",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-19
+1104,20710,41930,2019-03-19,exact,"Bursaphelenchus abietinus,Bursaphelenchus minutus,Saprophytes (Engl.)",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-19
+1105,20711,41931,2019-03-19,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-19
+1106,20712,41932,2019-03-19,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-19
+1107,20713,41933,2019-03-19,exact,"Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-19
+1108,20714,41934,2019-03-19,exact,"Aphelenchoides,Bursaphelenchus minutus,Bursaphelenchus sexdentati,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-19
+1109,20715,41935,2019-03-26,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-26
+1110,20716,41936,2019-03-26,exact,"Aphelenchoides,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-26
+1111,20717,41937,2019-03-26,exact,"Bursaphelenchus minutus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-26
+1112,20718,41938,2019-03-26,exact,"Aphelenchoides,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-26
+1113,20719,41939,2019-03-26,exact,"Aphelenchoides,Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-26
+1114,20720,41940,2019-03-26,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-26
+1115,20721,41941,2019-03-26,exact,"Bursaphelenchus sexdentati,Bursaphelenchus tusciae,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-26
+1116,20722,41942,2019-03-26,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-26
+1117,20723,41943,2019-03-26,exact,"Cerambycidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-26
+1118,20724,41944,2019-03-26,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-26
+1119,20725,41945,2019-03-29,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Lepidoptera,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-29
+1120,20726,41946,2019-03-29,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-29
+1121,20727,41947,2019-03-29,exact,"Aphelenchoides,Cerambycidae,Lepidoptera,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-29
+1122,20728,41948,2019-03-29,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-29
+1123,20729,41949,2019-03-29,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-29
+1124,20730,41950,2019-03-29,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-03-29
+1125,20731,41951,2019-03-29,exact,"Bursaphelenchus minutus,Laimaphelenchus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-03-29
+1126,20732,41952,2019-04-02,exact,"Aphelenchoides,Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-04-02
+1127,20733,41953,2019-04-02,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-02
+1128,20734,41954,2019-04-02,exact,"Aphelenchoides,Bursaphelenchus leoni,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-04-02
+1129,20735,41955,2019-04-02,exact,"Bursaphelenchus sexdentati,Formicidae,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-02
+1130,20736,41956,2019-04-02,exact,"Bursaphelenchus minutus,Formicidae,Saprophytes (Engl.)",Pinus strobus,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-02
+1131,20737,41957,2019-04-02,exact,"Bursaphelenchus minutus,Formicidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-04-02
+1132,20738,41958,2019-04-02,exact,"Bursaphelenchus minutus,Bursaphelenchus teratospicularis,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-02
+1133,20739,41959,2019-04-02,exact,"Formicidae,Laimaphelenchus,Neotylenchidae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-04-02
+1134,20740,41960,2019-04-02,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-02
+1135,20741,41961,2019-04-10,exact,"Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-10
+1136,20742,41962,2019-04-11,exact,"Bursaphelenchus minutus,Cerambycidae,Curculionidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-11
+1137,20743,41963,2019-04-11,exact,"Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-11
+1138,20744,41964,2019-04-11,exact,"Bursaphelenchus ssp.,Cerambycidae,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-11
+1139,20745,41965,2019-04-11,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-04-11
+1140,20746,41966,2019-04-11,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-04-11
+1141,20747,41967,2019-04-11,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-11
+1142,20748,41968,2019-04-11,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-11
+1143,20749,41969,2019-04-11,exact,"Aphelenchoides,Cerambycidae,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-04-11
+1144,20750,41970,2019-04-11,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-04-11
+1145,20751,41971,2019-04-12,exact,"Aphelenchoides,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-12
+1146,20752,41972,2019-04-12,exact,"Cerambycidae,Laimaphelenchus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-12
+1147,20753,41973,2019-04-12,exact,"Aphelenchoides,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-12
+1148,20754,41974,2019-04-12,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-04-12
+1149,20755,41975,2019-05-13,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-13
+1150,20756,41976,2019-05-14,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-14
+1151,20757,41977,2019-05-14,exact,"Bursaphelenchus teratospicularis,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-14
+1152,20758,41978,2019-05-14,exact,"Bursaphelenchus tusciae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-14
+1153,20759,41979,2019-05-14,exact,"Aphelenchoides,Formicidae,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-14
+1154,20760,41980,2019-05-14,exact,"Aphelenchoides,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-14
+1155,20761,41981,2019-05-14,exact,"Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-14
+1156,20762,41982,2019-05-14,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-14
+1157,20763,41983,2019-05-15,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-15
+1158,20764,41984,2019-05-15,exact,"Carabidae,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-15
+1159,20765,41985,2019-05-15,exact,"Bursaphelenchus minutus,Ips sexdentatus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-15
+1160,20766,41986,2019-05-15,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-15
+1161,20767,41987,2019-05-15,exact,"Ips sexdentatus,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-15
+1162,20768,41988,2019-05-15,exact,Saprophytes (Engl.),Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-15
+1163,20769,41989,2019-05-15,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-15
+1164,20770,41990,2019-05-16,exact,"Cerambycidae,Saprophytes (Engl.),Scolotinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-16
+1165,20771,41991,2019-05-16,exact,"Bursaphelenchus teratospicularis,Cerambycidae,Laimaphelenchus,Lepidoptera,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-16
+1166,20772,41992,2019-05-16,exact,"Bursaphelenchus minutus,Cerambycidae,Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-16
+1167,20773,41993,2019-05-17,exact,"Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-17
+1168,20774,41994,2019-05-17,exact,"Cerambycidae,Saprophytes (Engl.)",Pinus canariensis,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-17
+1169,20775,41995,2019-05-17,exact,"Saprophytes (Engl.),Scolytinae",Pinus halepensis,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-17
+1170,20776,41996,2019-05-17,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-17
+1171,20777,41997,2019-05-17,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Laimaphelenchus,Neotylenchidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-17
+1172,20778,41998,2019-05-17,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-17
+1173,20779,41999,2019-05-17,exact,"Bursaphelenchus minutus,Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-17
+1174,20780,42000,2019-05-21,exact,Saprophytes (Engl.),Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-21
+1175,20781,42001,2019-05-21,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-21
+1176,20782,42002,2019-05-21,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-21
+1177,20783,42003,2019-05-21,exact,"Bursaphelenchus abietinus,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-21
+1178,20784,42004,2019-05-27,exact,"Aphelenchoides,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-27
+1179,20785,42005,2019-05-27,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-27
+1180,20786,42006,2019-05-27,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-27
+1181,20787,42007,2019-05-27,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-27
+1182,20788,42008,2019-05-27,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-27
+1183,20789,42009,2019-05-31,exact,"Aphelenchoides,Bursaphelenchus minutus,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-31
+1184,20790,42010,2019-05-31,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-05-31
+1185,20791,42011,2019-05-31,exact,"Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-31
+1186,20792,42012,2019-05-31,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-31
+1187,20793,42013,2019-05-31,exact,"Aphelenchoides,Neotylenchidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-31
+1188,20794,42014,2019-05-31,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-05-31
+1189,20795,42015,2019-06-13,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-13
+1190,20796,42016,2019-06-13,exact,"Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-13
+1191,20797,42017,2019-06-13,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-13
+1192,20798,42018,2019-06-13,exact,"Aphelenchoides,Saprophytes (Engl.),Scolytinae",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,2.0,,1,IT-001,2019-06-13
+1193,20799,42019,2019-06-13,exact,"Aphelenchoides,Saprophytes (Engl.)",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-13
+1194,20800,42020,2019-06-13,exact,Aphelenchoides,Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-13
+1195,20801,42021,2019-06-13,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-13
+1196,20802,42022,2019-06-18,exact,"Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-18
+1197,20803,42023,2019-06-18,exact,"Aphelenchoides,Laimaphelenchus",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-18
+1198,20804,42024,2019-06-18,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-18
+1199,20805,42025,2019-06-18,exact,"Aphelenchoides,Bursaphelenchus sexdentati,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-18
+1200,20806,42026,2019-06-18,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-18
+1201,20807,42027,2019-06-18,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-18
+1202,20808,42028,2019-06-18,exact,"Laimaphelenchus,Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-18
+1203,20809,42029,2019-06-18,exact,"Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-18
+1204,20810,42030,2019-06-27,exact,"Aphelenchoides,Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-06-27
+1205,20811,42031,2019-09-12,exact,"Bursaphelenchus minutus,Laimaphelenchus,Saprophytes (Engl.)",Pseudotsuga menziesii,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-09-12
+1206,20812,42032,2019-09-12,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-09-12
+1207,20813,42033,2019-09-12,exact,"Laimaphelenchus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-09-12
+1208,20814,42034,2019-09-12,exact,Saprophytes (Engl.),Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-09-12
+1209,20815,42035,2019-09-12,exact,"Bursaphelenchus minutus,Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-09-12
+1210,20816,42036,2019-09-12,exact,"Bursaphelenchus minutus,Cerambycidae,Neotylenchidae,Saprophytes (Engl.),Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-09-12
+1211,20817,42037,2019-09-12,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.),Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-09-12
+1212,20818,42038,2019-09-12,exact,"Aphelenchoides,Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-09-12
+1213,20819,42039,2019-09-12,exact,"Aphelenchoides,Bursaphelenchus minutus,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-09-12
+1214,20820,42040,2019-10-11,exact,"Aphelenchoides,Cerambycidae,Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-11
+1215,20821,42041,2019-10-11,exact,"Aphelenchoides,Bursaphelenchus minutus,Ips",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-11
+1216,20822,42042,2019-10-11,exact,"Aphelenchoides,Laimaphelenchus",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-11
+1217,20823,42043,2019-10-14,exact,"Aphelenchoides,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-14
+1218,20824,42044,2019-10-14,exact,"Bursaphelenchus minutus,Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-14
+1219,20825,42045,2019-10-15,exact,"Bursaphelenchus minutus,Laimaphelenchus",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-15
+1220,20826,42046,2019-10-15,exact,"Aphelenchoides,Laimaphelenchus,Saprophytes (Engl.)",Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-15
+1221,20827,42047,2019-10-15,exact,Saprophytes (Engl.),Abies alba,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-15
+1222,20828,42048,2019-10-15,exact,"Bursaphelenchus andrassyi,Bursaphelenchus sexdentati,Laimaphelenchus",Pseudotsuga menziesii,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-15
+1223,20829,42049,2019-10-15,exact,"Bursaphelenchus mucronatus,Saprophytes (Engl.)",Pinus nigra,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-15
+1224,20830,42050,2019-10-22,exact,"Cerambycidae,Laimaphelenchus,Saprophytes (Engl.)",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-22
+1225,20831,42051,2019-10-22,exact,"Cerambycidae,Laimaphelenchus,Saprophytes (Engl.),Scolytinae",Pinus pinea,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-22
+1226,20832,42052,2019-10-22,exact,"Cerambycidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-22
+1227,20833,42053,2019-10-22,exact,"Bursaphelenchus minutus,Cerambycidae,Saprophytes (Engl.)",Pinus pinaster,Mortality,Field surveys,,,,,Italy,,,,,,,,,,,1.0,,1,IT-001,2019-10-22
+1228,20834,42054,2015-11-02,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-02
+1229,20835,42055,2015-11-02,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-02
+1230,20836,42056,2015-11-02,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-02
+1231,20837,42057,2015-11-02,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-02
+1232,20838,42058,2015-11-02,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-02
+1233,20839,42059,2015-11-02,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-02
+1234,20840,42060,2015-11-02,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-02
+1235,20841,42061,2015-11-02,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-02
+1236,20842,42062,2015-11-02,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-02
+1237,20843,42063,2015-11-03,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-03
+1238,20844,42064,2015-11-03,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-03
+1239,20845,42065,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1240,20846,42066,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1241,20847,42067,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1242,20848,42068,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1243,20849,42069,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1244,20850,42070,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1245,20851,42071,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1246,20852,42072,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1247,20853,42073,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1248,20854,42074,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1249,20855,42075,2015-11-05,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-05
+1250,20856,42076,2015-11-18,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-18
+1251,20857,42077,2015-11-18,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-18
+1252,20858,42078,2015-11-18,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-18
+1253,20859,42079,2015-11-18,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-18
+1254,20860,42080,2015-11-18,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-18
+1255,20861,42081,2015-11-18,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2015-11-18
+1256,20862,42082,2016-09-27,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-09-27
+1257,20863,42083,2016-10-18,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+1258,20864,42084,2016-10-18,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+1259,20865,42085,2016-10-18,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-10-18
+1260,20866,42086,2016-11-23,exact,,,,Field surveys,,,,,Italy,,,,,,,,,,,,,1,IT-001,2016-11-23
